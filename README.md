@@ -51,10 +51,11 @@ The frontend provides the interactive interface.
 streamlit run ui.py
 ```
 ## Project Structure
-
+```
 ├── main.py          # FastAPI routes & API configuration
 ├── logic.py         # AI Model loading & tokenization logic
 ├── schema.py        # Pydantic data models for validation
 ├── file_utils.py    # PDF and DOCX text extraction helpers
 ├── ui.py            # Streamlit frontend with custom CSS styling
 └── requirements.txt # Project dependencies
+```
