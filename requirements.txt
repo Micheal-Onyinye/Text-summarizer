@@ -1,0 +1,14 @@
+
+fastapi
+uvicorn
+pydantic
+
+transformers
+torch
+sentencepiece
+
+streamlit
+requests
+
+PyPDF2
+python-docx
