@@ -43,7 +43,7 @@ This application runs in two parts. You will need two terminal windows.
 ### Step 1: Start the Backend (API)
 The backend handles the AI processing.
 ```bash
-uvicorn main:app --reload
+python main.py
 ```
 ### Step 2: Start the Frontend (UI)
 The frontend provides the interactive interface.
